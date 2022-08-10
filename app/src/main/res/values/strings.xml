@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject_Daily</string>
+    <string-array name="type">
+        <item>工作</item>
+        <item>學校</item>
+    </string-array>
+</resources>

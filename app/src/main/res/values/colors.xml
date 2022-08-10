@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="all_background">#dcc5a5</color>
+
+    <color name="calendar_background">#f3efe1</color>
+
+    <color name="header">#976d45</color>
+
+    <color name="week_background">#ebe7cc</color>
+    <color name="week">#694026</color>
+
+
+    <color name="number">#9b504a</color>
+    <color name="number_today">#d4b493</color>
+
+    <color name="set">#ffffff</color>
+    <color name="circle">#976d45</color>
+
+</resources>
+
+    <!-- 實際圈圈
+     <color name="set">#efe0cd</color>
+        <color name="circle">#dcc5a5</color>
+
+    -->
+
+    <!-- 假裝沒圈圈 number = set
+    <color name="set">#d4b493</color>
+        <color name="circle">#f3efe1</color>
+    -->
